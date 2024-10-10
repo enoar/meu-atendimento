@@ -24,3 +24,12 @@ Firebase
 ![Imagem](https://firebasestorage.googleapis.com/v0/b/betsure-36cd0.appspot.com/o/222.PNG?alt=media&token=4fab6af9-2cdf-4699-a972-22fb62a48513)
 
 ![Imagem](https://firebasestorage.googleapis.com/v0/b/betsure-36cd0.appspot.com/o/2222.PNG?alt=media&token=456e0ffd-be26-400c-9ae6-c83b6f57af32)
+
+## Tasks
+
+- Nos update do chat fazer update saldo.
+- Pegar o preço do produto dinamicamente por serviço
+- Cors pagamento
+- Criar serviço atendimento
+- Iniciar chat apenas com atendentes.
+- Subir nas lojas versao teste
